@@ -37,6 +37,9 @@ public class EfficientSearch {
         if(sear==arr[sear-97]){
             System.out.println("Found");
         }
+        else{
+            System.out.println("Not Found");
+        }
 
         sc.close();
 
