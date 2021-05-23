@@ -1,5 +1,5 @@
 /*
-Searching - O(n) 
+Searching - O(1) 
 
 This is just a concept I thought about.
 
