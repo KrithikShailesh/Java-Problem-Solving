@@ -1,4 +1,5 @@
 /*
+
 Selection Sort [O(n^2)]:
 
 Input:
@@ -7,7 +8,6 @@ Input:
 Output:
 After sort:
 1 2 3 4 5
-
 
 */
 import java.util.*;
